@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>SLF4J transpilable formatting</name>
+  <description>A transpilable SLF4J formatting helper</description>
+  <url>https://github.com/topobyte/slf4j-transpilable-formatting</url>
+  <licenseName>MIT License</licenseName>
+  <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+  <licenseDistribution>repo</licenseDistribution>
+</project>
